@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RealEstateCRM-React/static/css/main.f855e6bc.css",
+    "main.js": "/RealEstateCRM-React/static/js/main.938269d0.js",
+    "static/js/488.2868f347.chunk.js": "/RealEstateCRM-React/static/js/488.2868f347.chunk.js",
+    "index.html": "/RealEstateCRM-React/index.html",
+    "main.f855e6bc.css.map": "/RealEstateCRM-React/static/css/main.f855e6bc.css.map",
+    "main.938269d0.js.map": "/RealEstateCRM-React/static/js/main.938269d0.js.map",
+    "488.2868f347.chunk.js.map": "/RealEstateCRM-React/static/js/488.2868f347.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.938269d0.js"
+  ]
+}
